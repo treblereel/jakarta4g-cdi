@@ -3,5 +3,6 @@
         "http://gwtproject.org/doctype/2.8.2/gwt-module.dtd">
 <module>
     <inherits name="jakarta.Inject"/>
+    <source path="decorator"/>
     <source path="enterprise"/>
 </module>
