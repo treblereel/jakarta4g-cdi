@@ -8,7 +8,7 @@
 
     <artifactId>cdi</artifactId>
     <packaging>jar</packaging>
-    <version>0.7</version>
+    <version>0.8</version>
 
     <name>GWT/J2CL compatible Jakarta CDI annotations</name>
     <description>GWT/J2CL compatible CDI annotations</description>
